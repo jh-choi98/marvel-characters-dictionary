@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marvel-characters-dictionary/static/css/main.bbea8149.css",
+    "main.js": "/marvel-characters-dictionary/static/js/main.2665f0af.js",
+    "index.html": "/marvel-characters-dictionary/index.html",
+    "main.bbea8149.css.map": "/marvel-characters-dictionary/static/css/main.bbea8149.css.map",
+    "main.2665f0af.js.map": "/marvel-characters-dictionary/static/js/main.2665f0af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbea8149.css",
+    "static/js/main.2665f0af.js"
+  ]
+}
