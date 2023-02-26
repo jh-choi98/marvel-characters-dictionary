@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-size: 25px;
+}
+.content {
+  display: flex;
+  margin-top: 80px;
+}
+.coverImg {
+  height: 480px;
+  width: 480px;
+  margin-right: 70px;
+}
+.seriesNumber {
+  font-size: 35px;
+  font-weight: 500;
+}
+.seriesList {
+  font-size: 20px;
+  margin-top: 30px;
+}
+.seriesList li {
+  margin-bottom: 10px;
+}
